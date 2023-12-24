@@ -20,7 +20,7 @@ const Hero = () => {
 
         <div className="buttons">
           <a
-            href="https://drive.google.com/file/d/1wF8kCnt06IRy_AtMFHmrKtLS8QTnEBG9/view?usp=sharing"
+            href="https://drive.google.com/file/d/1oKtes9RAEsuqtAaFo5k16bjfhf2j49QN/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
