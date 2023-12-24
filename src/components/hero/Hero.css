@@ -86,7 +86,7 @@
         transform: scale(0.95);
       }
 
-      a:hover{
+      a:hover {
         text-decoration: none;
         color: var(--accent-color);
         border: none;
@@ -122,10 +122,6 @@
   .hero {
     flex-direction: column;
     min-height: 100vh;
-    
-   
-    
-   
   }
 
   .hero_left {
@@ -137,23 +133,24 @@
       text-align: center;
     }
 
-    h2{
+    h2 {
       font-size: 1.5rem;
       text-align: center;
       margin: 0px;
     }
-    span{
+    span {
       font-size: 2rem;
       margin-bottom: 0px;
     }
 
     p {
-      width: 80%;
+      width: 95%;
       word-wrap: break-word;
-      word-break: break-all;
-      
+      /* word-break: break-all; */
+      text-wrap: balance;
       margin: 0px;
       padding-bottom: 0px;
+      text-align: center;
     }
 
     .buttons {
