@@ -10,12 +10,9 @@ const Hero = () => {
         </h1>
         <h2>Software Engineer</h2>
         <p>
-          Passionate software engineer with over 10 years of experience in
-          language education. Fluent in Spanish and English, skilled in
-          React.js, MongoDB, Node.js.
+        I am Diego Henao, a Bachelor in Bilingualism with over 10 years of experience in English language teaching with a C1 CEFR level. 
           <br />
-          <br />I am driven by a love for web development and continuous
-          learning.
+          <br />Three years ago, driven by a passion for web development and continuous learning, I discovered another of my passions as a Software Engineer specializing in React.js, Express.js, MongoDB, and Node.js. Currently, I am furthering my education by pursuing a degree in Software Engineering.
         </p>
 
         <div className="buttons">
