@@ -8,7 +8,7 @@ const Hero = () => {
         <h1>
           I am <span>Diego</span> Henao
         </h1>
-        <h2>Web Developer</h2>
+        <h2>Software Engineer</h2>
         <p>
           Passionate software engineer with over 10 years of experience in
           language education. Fluent in Spanish and English, skilled in
