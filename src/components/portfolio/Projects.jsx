@@ -25,7 +25,7 @@ const Projects = () => {
     },
     {
       img: "https://th.bing.com/th/id/R.ee2db84aff30c31fe6a5d6fdedd1f8f5?rik=TN%2bXv1mB3BZgHw&pid=ImgRaw&r=0",
-      title: "PokeDex",
+      title: "Pokédex",
       description:
         "Website to show 1,000 Pokemon with their respective characteristics and images consuming API.",
       link: "https://pokemon-1sdkn3q1e-diego-alejandro-henao-guarins-projects.vercel.app/",
