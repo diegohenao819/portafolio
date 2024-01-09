@@ -7,7 +7,7 @@ import Projects from "./components/portfolio/Projects";
 function App() {
   return (
     <>
-      <section>
+      <section  >
         <NavBar />
         <Hero />
       </section>

@@ -11,7 +11,7 @@ const NavBar = () => {
 
   return (
     <>
-      <div className="burger">
+      <div className="burger"  >
         <span onClick={openToggle}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +49,7 @@ const NavBar = () => {
       </div>
 
       {/* **********************************************+ */}
-      <div className="NavBar" id="navbar">
+      <div className="NavBar" id="navbar" >
         <div className="logo">
           <img src={logo} alt="logo Diego Henao" />
           <h2>

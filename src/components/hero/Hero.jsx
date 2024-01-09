@@ -3,7 +3,7 @@ import avatar from "../../assets/img/avatar.png";
 
 const Hero = () => {
   return (
-    <div className="hero" id="home">
+    <div className="hero" id="home" >
       <div className="hero_left">
         <h1>
           I am <span>Diego</span> Henao
