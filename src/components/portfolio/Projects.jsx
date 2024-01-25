@@ -28,7 +28,7 @@ const Projects = () => {
       title: "Pokédex",
       description:
         "Website to show 1,000 Pokemon with their respective characteristics and images consuming API.",
-      link: "https://pokemon-1sdkn3q1e-diego-alejandro-henao-guarins-projects.vercel.app/",
+      link: "https://pokemon-pied-one.vercel.app/",
     },
   ];
 
