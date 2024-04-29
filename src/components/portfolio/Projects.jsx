@@ -20,7 +20,7 @@ const Projects = () => {
       img: "https://th.bing.com/th/id/OIP.qTZy3GY7CH0AlxsviHRmXQHaE2?rs=1&pid=ImgDetMain",
       title: "Blog Articles",
       description: "Website created with React.js and consuming an API to show articles stored in MongoDB.",
-      link: "articulosreact-git-main-diego-alejandro-henao-guarins-projects.vercel.app",
+      link: "https://articulosreact-git-main-diego-alejandro-henao-guarins-projects.vercel.app/",
     },
 
     {
