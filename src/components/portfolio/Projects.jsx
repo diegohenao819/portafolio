@@ -4,6 +4,13 @@ import "./Projects.css";
 const Projects = () => {
   const projects = [
     {
+      img: "https://laverdadnoticias.com/__export/1692197661277/sites/laverdad/img/2023/08/16/google_hace_frente_a_gpt4_con_su_nueva_ia_llamada_gemini_y_asx_funciona_1.jpg_1217713606.jpg",
+      title: "Gemini Clone",
+      description:
+        "Gemini Clone using Google's api. Ask your question and let the model give you an answer.",
+      link: "https://gemini-pi-five.vercel.app/",
+    },
+    {
       img: "https://th.bing.com/th/id/OIP.9I9YPxcjyKF9ZgfupSz_egHaHa?rs=1&pid=ImgDetMain",
       title: "Click-Prof",
       description:
