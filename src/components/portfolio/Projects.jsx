@@ -11,6 +11,12 @@ const Projects = () => {
       link: "https://gemini-pi-five.vercel.app/",
     },
     {
+      img:"https://sandinmysuitcase.com/wp-content/uploads/2021/08/Maui-Packing-List-735x490.jpg",
+      title: "Trekking Backpack",
+      description: "Website to check the items you need to take on a trekking trip.",
+      link: "https://trekking-nu.vercel.app/",
+    },
+    {
       img: "https://th.bing.com/th/id/OIP.9I9YPxcjyKF9ZgfupSz_egHaHa?rs=1&pid=ImgDetMain",
       title: "Click-Prof",
       description:
