@@ -12,7 +12,7 @@ const Projects = () => {
       link: "https://gemini-pi-five.vercel.app/",
     },
     {
-      img: { evento },
+      img: evento,
       title: "Events App",
       description:
         "Website to be up to date with the events that are happening in your city.",
