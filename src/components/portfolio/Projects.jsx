@@ -1,3 +1,4 @@
+import evento from "../../assets/img/evento.png";
 import Card from "./Card";
 import "./Projects.css";
 
@@ -11,9 +12,17 @@ const Projects = () => {
       link: "https://gemini-pi-five.vercel.app/",
     },
     {
-      img:"https://sandinmysuitcase.com/wp-content/uploads/2021/08/Maui-Packing-List-735x490.jpg",
+      img: { evento },
+      title: "Events App",
+      description:
+        "Website to be up to date with the events that are happening in your city.",
+      link: "https://evento-project-mu.vercel.app/",
+    },
+    {
+      img: "https://sandinmysuitcase.com/wp-content/uploads/2021/08/Maui-Packing-List-735x490.jpg",
       title: "Trekking Backpack",
-      description: "Website to check the items you need to take on a trekking trip.",
+      description:
+        "Website to check the items you need to take on a trekking trip.",
       link: "https://trekking-nu.vercel.app/",
     },
     {
@@ -29,12 +38,6 @@ const Projects = () => {
       description: "Website for a daycare center in Pereira, Colombia.",
       link: "https://emmi-pikler.netlify.app/",
     },
-    {
-      img: "https://th.bing.com/th/id/OIP.qTZy3GY7CH0AlxsviHRmXQHaE2?rs=1&pid=ImgDetMain",
-      title: "Blog Articles",
-      description: "Full stack project with React.js consuming my own API created with Express.js to show articles stored in MongoDB.",
-      link: "https://blogreact-diego-alejandro-henao-guarins-projects.vercel.app/",
-    },
 
     {
       img: "https://th.bing.com/th/id/OIP.od5neF1COpwS6Nizg-DuYwHaFF?rs=1&pid=ImgDetMain",
@@ -42,13 +45,6 @@ const Projects = () => {
       description:
         "Do you want to play a game? How about a game of Tic Tac Toe.",
       link: "https://diegohenao819.github.io/triqui/",
-    },
-    {
-      img: "https://th.bing.com/th/id/R.ee2db84aff30c31fe6a5d6fdedd1f8f5?rik=TN%2bXv1mB3BZgHw&pid=ImgRaw&r=0",
-      title: "Pokédex",
-      description:
-        "Website to show 1,000 Pokemon with their respective characteristics and images consuming API.",
-      link: "https://pokemon-pied-one.vercel.app/",
     },
   ];
 
