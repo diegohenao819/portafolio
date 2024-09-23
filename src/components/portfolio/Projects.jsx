@@ -1,4 +1,5 @@
 import evento from "../../assets/img/evento.png";
+import petSoft from "../../assets/img/petSoft.png";
 import Card from "./Card";
 import "./Projects.css";
 
@@ -10,6 +11,13 @@ const Projects = () => {
       description:
         "Gemini Clone using Google's api. Ask your question and let the model give you an answer.",
       link: "https://gemini-pi-five.vercel.app/",
+    },
+    {
+      img: petSoft,
+      title: "PetSoft",
+      description:
+        "PetSoft is a software for pet stores that allows you to manage the pets you are taking care of.",
+      link: "https://pet-soft-kappa.vercel.app/",
     },
     {
       img: evento,
