@@ -1,3 +1,4 @@
+import dashboard from "../../assets/img/dashboard.png";
 import evento from "../../assets/img/evento.png";
 import petSoft from "../../assets/img/petSoft.png";
 import Card from "./Card";
@@ -20,11 +21,11 @@ const Projects = () => {
       link: "https://pet-soft-kappa.vercel.app/",
     },
     {
-      img: evento,
-      title: "Events App",
+      img: dashboard,
+      title: "Dashboard",
       description:
-        "Website to be up to date with the events that are happening in your city.",
-      link: "https://evento-project-mu.vercel.app/",
+        "Dashboard with a series of graphs and tables to visualize the data.",
+      link: "https://nextjs-dashboard-pink-alpha-55.vercel.app/",
     },
     {
       img: "https://sandinmysuitcase.com/wp-content/uploads/2021/08/Maui-Packing-List-735x490.jpg",
@@ -34,12 +35,21 @@ const Projects = () => {
       link: "https://trekking-nu.vercel.app/",
     },
     {
+      img: evento,
+      title: "Events App",
+      description:
+        "Website to be up to date with the events that are happening in your city.",
+      link: "https://evento-project-mu.vercel.app/",
+    },
+
+    {
       img: "https://th.bing.com/th/id/OIP.9I9YPxcjyKF9ZgfupSz_egHaHa?rs=1&pid=ImgDetMain",
       title: "Click-Prof",
       description:
         "English language exam including a series of questions and a score based on the CEFR.",
       link: "https://master.d1ie4jvzhxyf59.amplifyapp.com/",
     },
+
     {
       img: "https://brightstardaycare.org/wp-content/gf-uploads/2021/08/preview-m/3144-ORIGINAL-0.jpg?t=1628080154",
       title: "Instituto Emmi Pikler",
