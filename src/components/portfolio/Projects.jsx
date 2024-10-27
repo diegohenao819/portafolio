@@ -1,3 +1,4 @@
+import chatGPT from "../../assets/img/chatGPT.png";
 import dashboard from "../../assets/img/dashboard.png";
 import evento from "../../assets/img/evento.png";
 import petSoft from "../../assets/img/petSoft.png";
@@ -12,6 +13,13 @@ const Projects = () => {
       description:
         "Gemini Clone using Google's api. Ask your question and let the model give you an answer.",
       link: "https://gemini-pi-five.vercel.app/",
+    },
+    {
+      img: chatGPT,
+      title: "ChatGPT Clone",
+      description:
+        "Clone of the OpenAI chatbot. Ask your question and let the model give you an answer.",
+      link: "https://chat-ai-two-azure.vercel.app/",
     },
     {
       img: petSoft,
